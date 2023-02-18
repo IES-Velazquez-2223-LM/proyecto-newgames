@@ -10,3 +10,7 @@ En esta WEB podremos ver las noticias actualizadas de los videojuegos.
 
 VisualStudio para HTML.
 emojipedia.org y flaticon.es para iconos.
+
+# Equipo De Trabajo
+
+Clara Tabales Rivas y Jaime Jiménez Machuca.
