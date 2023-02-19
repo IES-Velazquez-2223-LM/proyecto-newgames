@@ -17,4 +17,4 @@ Clara Tabales Rivas y Jaime Jiménez Machuca.
 
 # Nuevas actualizaciones
 
-Noticia sobre Hogwarts legacy con imagen del videojuego ajustada.
+Noticia sobre Hogwarts legacy con imágenes del videojuego ajustadas y textos retocados.
