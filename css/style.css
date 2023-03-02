@@ -1,0 +1,54 @@
+.imagen-fondo {
+    background-image: url(/proyecto-newgames/fondos/Fondo1.jpg);
+    background-position: center;
+    background-size: 35%;
+    background-attachment: fixed;
+}
+.titulo-pagina {
+    text-align: center;
+    font-size: 50px;
+}
+
+.body {
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+.linea {
+    border-color:rgb(0, 255, 123);
+    border-width: 3px;
+   border-style:solid;
+}
+
+.encabezado {
+    background-color: rgba(0, 3, 163, 0.54);
+    background-size: 100%;
+}
+
+.barra-iconos {
+    background-color: rgba(0, 3, 163, 0.515);
+    background-size: 100%;
+}
+
+.fondo-noticia-lanzamientos{
+    background-color: rgba(169, 24, 24, 0.547);
+    max-width: 600px;
+    min-height: 300px;
+    background-position: center;
+}
+
+.fondo-nombre-lanzamientos {
+    background-color: rgba(0, 0, 0, 0.786);
+    max-width: 700px;
+    min-height: 400px;
+    background-position: center;
+}
+
+.pie {
+    background-color: #000000ab;
+    font-size: 15 px;
+    text-align: center
+    bottoom 0;
+    position: absolute;
+    width: 100%;
+    padding: 1em 0;
+}
