@@ -9,6 +9,17 @@
     font-size: 50px;
 }
 
+.botones-inicio {
+    background:    #f1c232;
+border:        3px solid #000000;
+border-radius: 1000px;
+box-shadow:    0 3px #000000;
+padding:       20px 70px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 20px/1 "Lobster Two", cursive;
+text-align:    center;
+}
 .body {
     background-color: rgb(20, 20, 20);
     color: white;
@@ -44,7 +55,7 @@
 }
 
 .fondo-noticia-rankings{
-    background-color: rgba(255, 106, 0, 0.547);
+    background-color: rgba(255, 136, 0, 0.547);
     max-width: 600px;
     min-height: 300px;
     background-position: center;
