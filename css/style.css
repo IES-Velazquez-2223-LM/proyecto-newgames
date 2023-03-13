@@ -33,6 +33,7 @@ text-align:    center;
 .encabezado {
     background-color: rgba(0, 3, 163, 0.54);
     background-size: 100%;
+    color: white;
 }
 
 .barra-iconos {
@@ -99,9 +100,21 @@ text-align:    center;
     background-color: #000000ab;
     font-size: 15 px;
     text-align: center
-    position: absolute;
+    position absolute;
     width: 100%;
     padding: 1em 0;
    bottom: 0;
    width: 100%;
+   color: white;
+}
+.formulario{
+    text-size-adjust: 20px;
+    color: rgb(255, 238, 0);
+    border: 10px;
+}
+.cuadro-formulario {
+background-color:rgba(0, 195, 255, 0.322);
+    align-items: center;
+    margin: 5%;
+    
 }
